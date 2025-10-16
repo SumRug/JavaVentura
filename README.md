@@ -1,10 +1,16 @@
 # JavaVentura
 Juego en java como proyecto escolar para el uso de sistemas condicionales de forma base y anidadas
-[Clase Main](JavaVentureFinal/src/adventuregameapp/Adventuregameapp.java)
-[Objeto Personaje](JavaVentureFinal/src/Personaje.java)
-[Objeto Escenas](JavaVentureFinal/src/adventuregameapp/escenas.java)
+---
 
-[Escenario 1](JavaVentureFinal/src/adventuregameapp/lapuertamagica.java)
-[Escenario 2](JavaVentureFinal/src/adventuregameapp/Bosque.java)
-[Escenario 3](JavaVentureFinal/src/adventuregameapp/ElDragonFinal.java)
-[Escenario Extra](JavaVentureFinal/src/adventuregameapp/Bosque.java)
+## 🧠 Clases principales
+- [Clase Main](JavaVentureFinal/src/adventuregameapp/Adventuregameapp.java)
+- [Objeto Personaje](JavaVentureFinal/src/Personaje.java)
+- [Objeto Escenas](JavaVentureFinal/src/adventuregameapp/escenas.java)
+
+---
+
+## 🎮 Escenarios
+1. [Escenario 1: La puerta mágica](JavaVentureFinal/src/adventuregameapp/lapuertamagica.java)
+2. [Escenario 2: El bosque](JavaVentureFinal/src/adventuregameapp/Bosque.java)
+3. [Escenario 3: El dragón final](JavaVentureFinal/src/adventuregameapp/ElDragonFinal.java)
+4. [Escenario extra](JavaVentureFinal/src/adventuregameapp/Bosque.java)
